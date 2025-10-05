@@ -20,8 +20,9 @@ Hackers’ culture prizes curiosity, the joy of tinkering, cleverness, and a pla
 
 GNU/Linux follows Unix's philosphy that emphasize building simple, modular programs that do one thing well that can be combined flexibly to accomplish complex tasks. Created in the late 1960s at Bell Labs, Unix was mainly used in universities, research labs, and large companies. It is one of the most influential operating systems.
 
-`    "This community that we have, that we're building, that does so much, has to grow. We can't compete with Apple, we can't compete with Google, directly, in the field of resources. What we can eventually do is head count and heart count. We can compete on the ground of ideology because ours is better." -- Edward Snowden, NSA whistleblower, speaking at LibrePlanet 2016.
-`
+`This community that we have, that we're building, that does so much, has to grow. We can't compete with Apple, we can't compete with Google, directly, in the field of resources. What we can eventually do is head count and heart count. We can compete on the ground of ideology because ours is better.`
+-- `Edward Snowden`, NSA whistleblower, speaking at LibrePlanet 2016.
+
 
 ---
 
