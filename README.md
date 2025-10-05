@@ -19,21 +19,17 @@
 
  *References :*
 
- - The "classic" Richard Stalman's talk on software and freedom.()
-[](https://www.gnu.org/audio-video/philosophy-recordings.html#rms-201404070)
+ - The "classic" [Richard Stalman's talk on software and freedom](https://www.gnu.org/audio-video/philosophy-recordings.html#rms-201404070)
 
 - "The Cathedral and the Bazaar" by Eric S. Raymond — a seminal essay on how open source development differs from traditional software engineering.
-Online version : https://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html
-Printed version : https://www.oreilly.com/library/view/the-cathedral/0596001088/
+[Online version](https://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html)
+[Printed version](https://www.oreilly.com/library/view/the-cathedral/0596001088/)
 
-- "Hackers: Heroes of the Computer Revolution" by Steven Levy (ISBN 978-0-385-19195-1)
-https://www.stevenlevy.com/hackers-heroes-of-the-computer-revolution
+- "Hackers: Heroes of the Computer Revolution" by Steven Levy
+  (ISBN 978-0-385-19195-1) [Steven Levy's Site](https://www.stevenlevy.com/hackers-heroes-of-the-computer-revolution)
 
-- GNU's Philosophy :
-https://www.gnu.org/philosophy/
+- [GNU's Philosophy](https://www.gnu.org/philosophy)
 
-- Free Software definition :
-https://www.gnu.org/philosophy/free-sw.html
+- [Free Software definition](https://www.gnu.org/philosophy/free-sw.html)
 
-- Open Source definition :
-https://opensource.org/osd
+- [Open Source definition](https://opensource.org/osd)
