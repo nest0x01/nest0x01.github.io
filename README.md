@@ -27,7 +27,7 @@ GNU/Linux follows Unix's philosphy that emphasize building simple, modular progr
 
 ---
 
-####### _References :_
+###### References :
 
 web
 
