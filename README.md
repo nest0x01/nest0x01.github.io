@@ -26,18 +26,20 @@ GNU/Linux follows Unix's philosphy that emphasize building simple, modular progr
 
 ---
 
-_References :_
+##### _References :_
+
+web
 
 - The "classic" [Richard Stalman's talk on software and freedom](https://www.gnu.org/audio-video/philosophy-recordings.html#rms-201404070)
 
+- [GNU's Philosophy](https://www.gnu.org/philosophy)
+
+- [GNU's Manifesto](https://www.gnu.org/gnu/manifesto.html)
+
 - [Free Software Foundation](https://www.fsf.org/)
 
-- ["The Cathedral and the Bazaar"](https://www.oreilly.com/library/view/the-cathedral/0596001088/) by Eric S. Raymond — a seminal essay on how open source development differs from traditional software engineering.
+books
 
 - ["Hackers: Heroes of the Computer Revolution"](https://www.stevenlevy.com/hackers-heroes-of-the-computer-revolution) by Steven Levy
 
-- [GNU's Philosophy](https://www.gnu.org/philosophy)
-
-- [GNU's Free Software definition](https://www.gnu.org/philosophy/free-sw.html)
-
-- [OSI's Open Source definition](https://opensource.org/osd)
+- ["The Cathedral and the Bazaar"](https://www.oreilly.com/library/view/the-cathedral/0596001088/) by Eric S. Raymond — a seminal essay on how open source development differs from traditional software engineering.
