@@ -22,7 +22,7 @@
  - The "classic" [Richard Stalman's talk on software and freedom](https://www.gnu.org/audio-video/philosophy-recordings.html#rms-201404070)
 
 - "The Cathedral and the Bazaar" by Eric S. Raymond — a seminal essay on how open source development differs from traditional software engineering.
-[Online version](https://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html)
+[Online version](https://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) |
 [Printed version](https://www.oreilly.com/library/view/the-cathedral/0596001088/)
 
 - "Hackers: Heroes of the Computer Revolution" by Steven Levy
