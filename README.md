@@ -29,7 +29,7 @@ GNU/Linux follows Unix's philosphy that emphasize building simple, modular progr
 
 ###### References :
 
-web
+Web
 
 - The "classic" [Richard Stalman's talk on software and freedom](https://www.gnu.org/audio-video/philosophy-recordings.html#rms-201404070)
 
