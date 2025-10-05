@@ -1,5 +1,5 @@
 
-## A Brief Opiniated Overview of The Free Open Source Mouvement
+## A Tiny Overview of The Free Open Source Movement
 
 ### Informal definition
 
