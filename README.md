@@ -17,8 +17,8 @@ FOSS are a shared public good, rejecting profit-driven enforced restrictions. St
 
 Hackers’ culture prizes curiosity, the joy of tinkering, cleverness, and a playful approach to problem-solving. For example GNU’s recursive acronym—“GNU’s Not Unix”—is itself a playful wordplay that celebrates both technical lineage and mischievous creativity. The result is a community that learns by making, sharing, and laughing together. Hackers see technology as a playground: they explore systems not just to use them, but to understand how they work, to bend their use in unexpected ways. Alongside the play, though, there’s a serious ethic: respect for skill and technical excellence, and a belief in meritocracy where reputation comes from what you can build or hack, not formal credentials.
 
-### GNU/Linux Technical Design
-GNU/Linux follows Unix's philosphy that emphasize building simple, modular programs that do one thing well that can be combined flexibly to accomplish complex tasks. Unix is one of the most influential operating systems, created in the late 1960s at Bell Labs. It was designed to be simple, reliable, and able to support multiple users at once. Unix was mainly used in universities, research labs, and large companies.
+### Heritage from Unix
+GNU/Linux follows Unix's philosphy that emphasize building simple, modular programs that do one thing well that can be combined flexibly to accomplish complex tasks. Created in the late 1960s at Bell Labs, Unix was mainly used in universities, research labs, and large companies. It is one of the most influential operating systems.
 
 ---
 
