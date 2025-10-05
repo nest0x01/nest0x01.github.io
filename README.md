@@ -39,7 +39,7 @@ Web
 
 - [Free Software Foundation](https://www.fsf.org/)
 
-books
+Books
 
 - ["Hackers: Heroes of the Computer Revolution"](https://www.stevenlevy.com/hackers-heroes-of-the-computer-revolution) by Steven Levy
 
