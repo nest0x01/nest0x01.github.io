@@ -205,6 +205,8 @@ footer {
 article-metadata {
     text-align: right;
     font-size: 0.8em;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 article {
@@ -229,9 +231,25 @@ ital {
     font-style: italic;
 }
 
+license {
+    text-align: right;
+}
+
+.author {
+    text-align: right;
+    font-size: 0.7em;
+    font-family: "C64";
+    color: #a3a3a3;
+    margin-top: 0px;
+    padding-top: 0px;
+    /*font-family: "C64";*/
+}
+
 .date {
     text-align: right;
     font-size: 0.8em;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 .title {
