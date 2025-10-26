@@ -145,6 +145,16 @@
     src: url("/Commodore-64-v6.3.TTF");
 }
 
+@font-face {
+    font-family: "C64PRO";
+    src: url("/C64_Pro-STYLE.ttf");
+}
+
+@font-face {
+    font-family: "C64PROMONO";
+    src: url("/C64_Pro_Mono-STYLE.ttf");
+}
+
 :root {
     /*--col-outer-bg: hsl(154 50% 5%);*/
     --col-outer-bg: #20202f; /*--col-inner-bg: hsl(154 50% 5%);*/
@@ -237,8 +247,8 @@ license {
 
 .author {
     text-align: right;
-    font-size: 0.7em;
-    font-family: "C64";
+    font-size: 0.6em;
+    font-family: "C64PROMONO";
     color: #a3a3a3;
     margin-top: 0px;
     padding-top: 0px;
