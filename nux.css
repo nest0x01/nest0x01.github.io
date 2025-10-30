@@ -190,7 +190,10 @@
 
     --col-text-shadow: hsl(1 100% 0%);
 
-    --col-a-link: #c88; /*--col-ptitle-bg: #111222;*/
+    --col-a-link: #faa;
+    --col-ital: #8f8;
+
+    /*--col-ptitle-bg: #111222;*/
     /*--col-title-bg: var(--sky-blue);*/
 }
 
@@ -279,6 +282,7 @@ tname {
 
 ital {
     font-style: italic;
+    color: var(--col-ital);
 }
 
 .title {
@@ -310,6 +314,10 @@ ital {
 
 p {
     margin-left: 2em;
+}
+
+a {
+    color: var(--col-a-link);
 }
 
 .art-deco {
@@ -395,8 +403,4 @@ pre {
 
 .blink {
     animation: blink 0.4s linear infinite;
-}
-
-a {
-    color: var(--col-a-link);
 }
