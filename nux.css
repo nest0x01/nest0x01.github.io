@@ -283,7 +283,7 @@ ital {
 
 .title {
     font-family: "SAIRA";
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     font-weight: bold;
     text-align: center;
 
@@ -301,7 +301,7 @@ ital {
 
 .ptitle {
     /*font-size: 1.7rem;*/
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     /*font-family: "C64";*/
     font-weight: bold;
     color: var(--col-ptitle);
