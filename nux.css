@@ -1,3 +1,4 @@
+/*
 @media print {
     body {
         font-family: monospace;
@@ -134,7 +135,7 @@
         margin: 0;
     }
 }
-
+*/
 @font-face {
     font-family: "VT323";
     src: url("/VT323-Regular.ttf");
@@ -224,9 +225,10 @@ body {
         "header header header"
         "nav main aside"
         "footer footer footer";
-
-    grid-template-rows: 30px 1fr 15px;
-    grid-template-columns: 1fr 790px 1fr;
+    text-align: left;
+    align-self: center;
+    grid-template-rows: 0.1fr 1fr 0.1fr;
+    grid-template-columns: 0.1fr 80ch 0.1fr;
     grid-gap: 0px;
     height: 100vh;
     margin: 0px;
@@ -237,6 +239,10 @@ body {
     color: var(--col-inner-ink);
 
     /*text-shadow: 1px 1px 3px var(--col-text-shadow);*/
+}
+
+main {
+    max-width: 200em;
 }
 
 article-metadata {
@@ -282,6 +288,9 @@ tname {
 
 ital {
     font-style: italic;
+}
+
+refital {
     color: var(--col-ital);
 }
 
